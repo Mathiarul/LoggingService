@@ -1,0 +1,2 @@
+Log(id=0, applicationId=string, traceId=string, severity=string, timestamp=2023-03-23T15:37:06.610Z, message=string, componentName=string, requestId=string)
+Log(id=0, applicationId=12121, traceId=33333, severity=INFO, timestamp=2023-03-23T15:37:06.610Z, message=23423, componentName=2424, requestId=HGJ)

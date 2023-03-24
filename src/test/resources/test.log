@@ -1,0 +1,6 @@
+Log(id=1, applicationId=test, traceId=12345, severity=INFO, timestamp=2023-03-23T16:49:11.563410300Z, message=Test message, componentName=null, requestId=null)
+Log(id=2, applicationId=test, traceId=12345, severity=INFO, timestamp=2023-03-23T16:49:12.861201900Z, message=, componentName=null, requestId=null)
+Log(id=3, applicationId=test, traceId=12345, severity=INFO, timestamp=2023-03-23T16:49:13.002779200Z, message=Test message, componentName=null, requestId=null)
+Log(id=1, applicationId=test, traceId=12345, severity=INFO, timestamp=2023-03-23T16:53:50.848890Z, message=Test message, componentName=null, requestId=null)
+Log(id=2, applicationId=test, traceId=12345, severity=INFO, timestamp=2023-03-23T16:53:51.650245Z, message=, componentName=null, requestId=null)
+Log(id=3, applicationId=test, traceId=12345, severity=INFO, timestamp=2023-03-23T16:53:51.713591800Z, message=Test message, componentName=null, requestId=null)
