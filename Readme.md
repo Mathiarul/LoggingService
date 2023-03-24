@@ -20,3 +20,4 @@ The service can be used to log messages from any application that can send HTTP 
 * Refactor the logging endpoint to use a separate DTO instead of the `Log` entity in the controller.
 * Replace the in-memory database with a more robust and scalable database.
 * Add support for logging to other mediums like a message queue or a stream.
+* Should dockerize this later.
